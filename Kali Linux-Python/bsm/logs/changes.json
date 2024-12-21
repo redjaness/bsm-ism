@@ -1,0 +1,170 @@
+[
+    {
+        "event_type": "created",
+        "src_path": "/home/kali/bsm/test/test1",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:47:34 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:47:34 2024"
+    },
+    {
+        "event_type": "created",
+        "src_path": "/home/kali/bsm/test/test2",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:51:39 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:51:39 2024"
+    },
+    {
+        "event_type": "created",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:23 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:53:23 2024"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:23 2024"
+    },
+    {
+        "event_type": "closed",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:23 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:53:23 2024"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:24 2024"
+    },
+    {
+        "event_type": "closed_no_write",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:24 2024"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "created",
+        "src_path": "/home/kali/bsm/test/test1/.goutputstream-B8ZXY2",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/kali/bsm/test/test1/.goutputstream-B8ZXY2",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1/.goutputstream-B8ZXY2",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "closed",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1/.goutputstream-B8ZXY2",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "moved",
+        "src_path": "/home/kali/bsm/test/test1/.goutputstream-B8ZXY2",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "closed",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "modified",
+        "src_path": "/home/kali/bsm/test/test1",
+        "is_directory": true,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "closed_no_write",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 07:53:47 2024"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 16:29:30 2024"
+    },
+    {
+        "event_type": "closed_no_write",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 16:29:30 2024"
+    },
+    {
+        "event_type": "opened",
+        "src_path": "/home/kali/bsm/test/test1/deneme",
+        "is_directory": false,
+        "time": "Sat Dec 21 16:38:24 2024"
+    }
+]
